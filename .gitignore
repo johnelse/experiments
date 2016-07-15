@@ -1,0 +1,11 @@
+a.out
+*.beam
+
+*.annot
+*.byte
+*.cmi
+*.cmo
+*.cmx
+*.o
+
+*.pyc
